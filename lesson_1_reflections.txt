@@ -1,0 +1,7 @@
+It shows the direct differences filtering out all similarities.
+so Makes typos easy to find.
+If something goes wrong lets us work from the previous step and not the whole project again.
+Easy to find bugs
+pros: accurate commits
+cons one may forget.
+Group saving will be useful in android whereas when there is no link between between two files commits can be seperate.
